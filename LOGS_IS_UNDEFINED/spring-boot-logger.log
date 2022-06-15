@@ -1,0 +1,2 @@
+2022-06-15 12:22:06,464 WARN com.example.BS5.controller.LogsController [http-nio-8080-exec-2] HELLO!!!!
+2022-06-15 12:22:15,033 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-4] java.lang.ExceptionInInitializerError

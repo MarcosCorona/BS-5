@@ -1,0 +1,8 @@
+2022-06-15 12:38:09,268 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-2] java.lang.ExceptionInInitializerError
+2022-06-15 12:38:10,231 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-3] java.lang.ExceptionInInitializerError
+2022-06-15 12:38:18,134 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-4] java.lang.ExceptionInInitializerError
+2022-06-15 12:38:19,748 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-6] java.lang.ExceptionInInitializerError
+2022-06-15 12:38:21,352 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-7] java.lang.ExceptionInInitializerError
+2022-06-15 12:38:23,178 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-5] java.lang.ExceptionInInitializerError
+2022-06-15 12:38:25,095 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-8] java.lang.ExceptionInInitializerError
+2022-06-15 12:38:25,698 ERROR com.example.BS5.controller.ErrorLogController [http-nio-8080-exec-10] java.lang.ExceptionInInitializerError
